@@ -12,7 +12,7 @@ class Main {
 	private static var files:Array<String>;
 	
 	static function main() {
-		Bio.Header("brunsdec", "1.0.0", "A simple decrypter for Bruns Engine encrypted files (with magic number 'EENC')", "<input_file>|<input_dir> [<output_dir>]");
+		Bio.Header("brunsdec", "1.0.0", "2018", "A simple decrypter for Bruns Engine encrypted files (with magic number 'EENC')", "<input_file>|<input_dir> [<output_dir>]");
 		Bio.Seperator();
 		
 		var args = Sys.args();
