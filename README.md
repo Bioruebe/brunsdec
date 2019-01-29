@@ -17,4 +17,8 @@ Bruns Engine games make use of two different file formats:
 - If you found a game, which is not supported, feel free to open an issue and send me a sample file.
 
 ### Remarks
+This is the result of analysing the file type itself, no reverse engineering has been used to write this tool.
+
+I released it as a helper for artists to search games for unlicensed use of their assets. It is not meant to encourage extraction with the sole purpose of using assets in your own products without permission of the copyright holder.
+
 Remember: don't steal assets from other people's games. Respect copyrights. And don't protect your own games - it's unnecessary effort.
